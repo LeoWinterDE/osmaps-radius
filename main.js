@@ -1,4 +1,4 @@
-var map = L.map('mapid').setView([51.505, -0.09], 10);
+var map = L.map('mapid').setView([52.516, 13.378], 10);
 var radiusInput = document.querySelector('#radiusInput');
 var unitSelector = document.querySelector('#unitSelector');
 
